@@ -1,7 +1,7 @@
 function basketballEquipment(input) {
     let yearFee = Number(input[0]);
 
-    let shoes = 0.60 * yearFee;
+    let shoes = 0.61 * yearFee;
     let equip = 0.80 * shoes;
     let ball = 0.25 * equip;
     let accessoirs = 0.20 * ball;
