@@ -8,4 +8,4 @@
 #### - Repainting
 #### - Food Delivery
 #### - Basketball Equipment
-#### - Fish Tank.
+#### - Fish Tank
